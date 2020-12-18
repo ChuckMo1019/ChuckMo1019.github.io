@@ -1,5 +1,7 @@
 
 .div {
+  margin: 0;
   font-family: "Comic Sans MS", "Comic Sans", sans-serif;
   text-align: center;
+  padding: 0;
 }
